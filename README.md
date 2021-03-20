@@ -14,6 +14,8 @@ Es un conjunto de dos audios que narran una historia acerca de un beso. Es para 
 ## Ejercicio 3. Nivel Básico / intermedio / Avanzado
 * [Curso en video de 6 horas](https://www.youtube.com/watch?v=99FY4YcOUPE)
 
+## En revision
+* [Curso de ingles Básico](https://www.youtube.com/watch?v=9l8qdJ3psEo&list=PL5LuQbOY0pXZDD977kzVYE_XOTS7SPyeZ)
 
 # Acerca del Autor
 Hola, construyamos una gran base de datos con material de estudio para la universidad y el instituto. Me pueden contactar en [JiocaExp](https://www.facebook.com/jiocaexp)
