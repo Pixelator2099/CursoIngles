@@ -8,3 +8,9 @@ Es un conjunto de dos audios que narran una historia acerca de un beso. Es para 
 
 ## Ejercicios 2. Nivel Básico
 [Palabras y adjetivos / Audio](https://www.youtube.com/watch?v=GXmh3FOwFaw)
+[Listado completos de audios](https://www.youtube.com/watch?v=JLwPoQSr7gI&list=PLybR8DrLG_ZXtDa6DHHceDSIeRNnpQdnM)
+200 Audios para prácticar.
+
+
+# Acerca del Autor
+Hola, construyamos una gran base de datos con material de estudio para la universidad y el instituto. Me pueden contactar en [JiocaExp](https://www.facebook.com/jiocaexp)
